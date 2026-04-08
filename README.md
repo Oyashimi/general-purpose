@@ -1,2 +1,1 @@
-# general-purpose
-# general-purpose
+汎用リポジトリです
